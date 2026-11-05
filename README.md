@@ -20,6 +20,7 @@ My LeetCode solutions, auto-synced with LeetHub
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aadhil-nisar/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/aadhil-nisar/leetcode-solutions/tree/master/0007-reverse-integer) |
 ## Recursion
 |  |
 | ------- |
