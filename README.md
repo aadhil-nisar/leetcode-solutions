@@ -7,6 +7,7 @@ My LeetCode solutions, auto-synced with LeetHub
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aadhil-nisar/leetcode-solutions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/aadhil-nisar/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,4 +24,12 @@ My LeetCode solutions, auto-synced with LeetHub
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aadhil-nisar/leetcode-solutions/tree/master/0002-add-two-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/aadhil-nisar/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/aadhil-nisar/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
