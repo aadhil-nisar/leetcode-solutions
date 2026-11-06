@@ -10,6 +10,7 @@ My LeetCode solutions, auto-synced with LeetHub
 | [0004-median-of-two-sorted-arrays](https://github.com/aadhil-nisar/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/aadhil-nisar/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/aadhil-nisar/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/aadhil-nisar/leetcode-solutions/tree/master/0015-3sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +51,7 @@ My LeetCode solutions, auto-synced with LeetHub
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aadhil-nisar/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/aadhil-nisar/leetcode-solutions/tree/master/0015-3sum) |
 ## Greedy
 |  |
 | ------- |
@@ -58,4 +60,8 @@ My LeetCode solutions, auto-synced with LeetHub
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aadhil-nisar/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/aadhil-nisar/leetcode-solutions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
