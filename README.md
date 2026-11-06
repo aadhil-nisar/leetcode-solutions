@@ -13,6 +13,7 @@ My LeetCode solutions, auto-synced with LeetHub
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aadhil-nisar/leetcode-solutions/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/aadhil-nisar/leetcode-solutions/tree/master/0012-integer-to-roman) |
 ## Linked List
 |  |
 | ------- |
@@ -22,6 +23,7 @@ My LeetCode solutions, auto-synced with LeetHub
 | ------- |
 | [0002-add-two-numbers](https://github.com/aadhil-nisar/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/aadhil-nisar/leetcode-solutions/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/aadhil-nisar/leetcode-solutions/tree/master/0012-integer-to-roman) |
 ## Recursion
 |  |
 | ------- |
@@ -38,6 +40,7 @@ My LeetCode solutions, auto-synced with LeetHub
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/aadhil-nisar/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/aadhil-nisar/leetcode-solutions/tree/master/0012-integer-to-roman) |
 ## Two Pointers
 |  |
 | ------- |
